@@ -1,0 +1,7 @@
+class Sum {
+  int value = 2;
+
+  void increment() => value++;
+
+  void decrement() => value--;
+}
