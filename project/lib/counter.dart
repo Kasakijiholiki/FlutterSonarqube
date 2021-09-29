@@ -1,5 +1,5 @@
-class Sum {
-  int value = 2;
+class Counter {
+  int value = 0;
 
   void increment() => value++;
 
